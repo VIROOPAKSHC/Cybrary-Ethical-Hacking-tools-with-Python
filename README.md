@@ -6,3 +6,4 @@ Key skills
 - Python
 - Keylogger using Pynput, ftplib, and logging
 - Bruteforcing automation using Python - ZipFile, ArgParse
+
